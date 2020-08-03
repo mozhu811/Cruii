@@ -22,23 +22,18 @@
 ## 💕 Life Style
 ### 🎵 Music
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e979438zirmb7s3yctw95mhn4&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
-### 🎮 Game
- <!-- steam-box start -->
-#### <a href="https://gist.github.com/b44d1f8705805ae078575596824909c6" target="_blank">🎮 Steam playtime leaderboard</a>
-```text
-🎮 Dota 2                            🕘 548 hrs 5 mins
-💻 Wallpaper Engine                  🕘 74 hrs 18 mins
-🔫 Tom Clancy's Rainbow Six Siege    🕘 48 hrs 59 mins
-🚓 Grand Theft Auto V                🕘 39 hrs 33 mins
-🎮 Total War: THREE KINGDOMS         🕘 27 hrs 36 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
-### 👨‍💻‍ Work
- <!-- waka-box start -->
-#### <a href="https://gist.github.com/d235c8ecfc2fb0fbd4b2513f3cf2647f" target="_blank">📊 Weekly development breakdown</a>
-```text
-Still Gathering Statistics...
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+
+<table>
+<tr>
+<td valign="top" width="50%">
+ 
+<!-- waka-box start -->
 <!-- waka-box end -->
+</td>
+<td valign="top" width="50%">
+ 
+<!-- steam-box start -->
+<!-- steam-box end -->
+</td>
+</tr>
+</table>
