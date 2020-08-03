@@ -19,5 +19,4 @@
 [![](https://img.shields.io/badge/PostMan-7.28-ff6c37?style=flat-square&logo=postman&logoColor=ff6c37)](https://postman.com)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Cruii&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cruii&layout=compact)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e979438zirmb7s3yctw95mhn4&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
