@@ -28,6 +28,11 @@
 <td valign="top" width="50%">
  
 <!-- waka-box start -->
+#### <a href="https://gist.github.com/d235c8ecfc2fb0fbd4b2513f3cf2647f" target="_blank">📊 Weekly development breakdown</a>
+```text
+Still Gathering Statistics...
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 </td>
 <td valign="top" width="50%">
