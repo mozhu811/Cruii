@@ -23,6 +23,7 @@
 ### 🎵 Music
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e979438zirmb7s3yctw95mhn4&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
+### 👨‍💻‍ Spare
 <table>
 <tr>
 <td valign="top" width="50%">
