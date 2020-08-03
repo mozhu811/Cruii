@@ -20,4 +20,8 @@
 ## 📈 Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Cruii&show_icons=true&theme=dracula)  
 ## 💕 Life Style
+### 🎵 Music
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e979438zirmb7s3yctw95mhn4&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+### 🎮 Game
+ <!-- steam-box start -->
+ <!-- steam-box end -->
