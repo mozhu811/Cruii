@@ -16,7 +16,6 @@
 [![](https://img.shields.io/badge/IntellJ_IDEA-2020.2-ea415b?style=flat-square&logo=intellij-idea&logoColor=000000)](https://jetbrains.com)
 [![](https://img.shields.io/badge/Visual_Studio_Code-1.47-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/WebStorm-2020.2-58c1ed?style=flat-square&logo=webstorm&logoColor=000000)](https://jetbrains.com)
-[![](https://img.shields.io/badge/PostMan-7.28-ff6c37?style=flat-square&logo=postman&logoColor=ff6c37)](https://postman.com)
 
 ## 📈 Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Cruii&show_icons=true&theme=dracula)  
