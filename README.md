@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Cruii 👋
+🏄‍♂️ A one-year Java developer
 
 ## ⚡ Technologies
 
