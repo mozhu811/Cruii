@@ -26,7 +26,7 @@
 
 ## 👨‍💻‍ Spare 
 <!-- waka-box start -->
-### <a href="https://gist.github.com/d235c8ecfc2fb0fbd4b2513f3cf2647f" target="_blank">📊 Weekly development breakdown</a>
+#### <a href="https://gist.github.com/d235c8ecfc2fb0fbd4b2513f3cf2647f" target="_blank">📊 Weekly development breakdown</a>
 ```text
 Java       🕓 53m ███████████████████████▊░░░░░░ 79.6%
 JavaScript 🕓 12m █████▋░░░░░░░░░░░░░░░░░░░░░░░░ 19.1%
