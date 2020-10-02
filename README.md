@@ -40,7 +40,7 @@ HTML       🕓 1h2m  ██▏░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/b44d1f8705805ae078575596824909c6" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Dota 2                           🕘 548 hrs 10 mins
+🎮 Dota 2                           🕘 548 hrs 22 mins
 💻 Wallpaper Engine                 🕘 75 hrs 28 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 48 hrs 59 mins
 🚓 Grand Theft Auto V               🕘 39 hrs 33 mins
