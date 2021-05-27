@@ -12,7 +12,12 @@
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat-square&logo=git)
 
 ## 📈 Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Cruii&show_icons=true&theme=dracula)![Steak](https://github-readme-streak-stats.herokuapp.com/?user=cruii&theme=dark)
+<img  src="https://github-readme-stats.vercel.app/api?username=cruii&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=cruii&theme=dark" width="48%" >
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/cruii/count.svg" alt="Visitor Count" align="center" />
+</p>
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=cruii&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
 ## 💕 Life Style
