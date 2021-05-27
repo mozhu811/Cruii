@@ -13,6 +13,7 @@
 
 ## 📈 Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Cruii&show_icons=true&theme=dracula)  
+![Steak](https://github-readme-streak-stats.herokuapp.com/?user=cruii&theme=dark)
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=cruii&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
 ## 💕 Life Style
