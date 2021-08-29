@@ -38,7 +38,7 @@ Git Config 🕓 4m    ▎░░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/b44d1f8705805ae078575596824909c6" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 ⚔️ Dota 2                           🕘 618 hrs 1 mins
-💻 Wallpaper Engine                 🕘 80 hrs 18 mins
+💻 Wallpaper Engine                 🕘 81 hrs 15 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 48 hrs 59 mins
 🚓 Grand Theft Auto V               🕘 39 hrs 33 mins
 🎮 Total War: THREE KINGDOMS        🕘 27 hrs 36 mins
