@@ -1,4 +1,4 @@
-### Hi there, I'm Cruii 👋
+### Hi there, I'm [Cruii](https://cruii.io/) 👋
 
 ## ⚡ Technologies
 
