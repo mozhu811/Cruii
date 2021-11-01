@@ -16,7 +16,7 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=cruii&theme=dark" width="48%" >
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=cruii&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cruii&theme=alduin&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 ## 💕 Life Style
 ### 🎵 Music
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e979438zirmb7s3yctw95mhn4&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
