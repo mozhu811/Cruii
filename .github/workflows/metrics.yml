@@ -19,7 +19,7 @@ jobs:
           
           # Your GitHub token
           token: ${{ secrets.METRICS }}
-          committer_token: ${{ secrets.GH_TOKEN }}
+          committer_token: ${{ secrets.METRICS }}
 
           # Options
           user: Cruii
@@ -72,7 +72,7 @@ jobs:
         with:
           filename: bottom.svg
           token: ${{ secrets.METRICS }}
-          committer_token: ${{ secrets.GH_TOKEN }}
+          committer_token: ${{ secrets.METRICS }}
           base: ""
 #           config_order: ""
           plugin_followup: yes
