@@ -22,7 +22,7 @@ jobs:
           committer_token: ${{ secrets.GH_TOKEN }}
 
           # Options
-          user: Coordinate-Cat
+          user: Cruii
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: large
