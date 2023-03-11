@@ -19,7 +19,7 @@ jobs:
           
           # Your GitHub token
           token: ${{ secrets.METRICS }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GH_TOKEN }}
 
           # Options
           user: Coordinate-Cat
