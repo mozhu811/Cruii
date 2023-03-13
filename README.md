@@ -13,7 +13,7 @@
 
 ## 📈 Stats
 <img  src="https://github-readme-stats.vercel.app/api?username=cruii&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=cruii&theme=dark" width="48%" >
+<img  src="https://streak-stats.demolab.com?user=Cruii&theme=dark&locale=zh_Hans" width="48%" >
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=cruii&theme=alduin&column=8)](https://github.com/ryo-ma/github-profile-trophy)
