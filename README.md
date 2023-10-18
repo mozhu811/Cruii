@@ -18,5 +18,3 @@
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=cruii&theme=alduin&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-## 💕 Life Style 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314c76mk54avi2i24fqqozc6rpbu&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
